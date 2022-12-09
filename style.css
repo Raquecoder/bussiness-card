@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color:black;
+    background-color:powderblue;
+    text-align: center;
+    font-size: 22px;
+    
+}
+li{
+    
+    list-style: none;
+}
+img{ 
+    width: 200px;
+    height: 200px;
+    box-shadow:10px 10px 7px  #bb9198 ;
+}
